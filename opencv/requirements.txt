@@ -1,0 +1,11 @@
+jupyter
+# scikit-learn
+# tensorflow
+# pandas
+# numpy
+# seaborn # depends on matplotlib
+# theano
+# keras # depends on cntk, tensorflow and theano
+# pytorch
+# matplotlib
+opencv
