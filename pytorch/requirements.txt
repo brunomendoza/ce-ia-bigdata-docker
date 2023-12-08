@@ -1,0 +1,7 @@
+jupyter
+matplotlib
+pytorch
+pygad
+keras
+seaborn
+transformers
